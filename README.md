@@ -6,7 +6,7 @@
     <img src="https://badges.pufler.dev/repos/JoeyComputes?style=flat-square&color=black&logo=github">
   </a>
     
-## 🔧 Skills
+<h1>🔧 Skills</h1>
 
 <h1 align="center">
 
