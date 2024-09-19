@@ -30,8 +30,6 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-</h1>
-
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
@@ -60,6 +58,8 @@ I enjoy working Linux as well! Here are some of the distros I love using down be
   </tr>
   </table>
 </div>
+
+</h1>
 
 <h3>💻 If I had to describe myself...</h3>
 
