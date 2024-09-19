@@ -5,7 +5,35 @@
 
 - 👥 Student at [Southern Connecticut State College](https://www.southernct.edu/)
 
-+ More coming soon
+<br>
+
+<h3>How I'd define myself...literally</h3>
+
+ ```ruby
+ class JoeyComputes < Developer
+
+   def initialize
+     @name = 'Saharat Tosakoon'
+     @age = 24
+     @work = [ 'Self Employed', 'Student' ]
+     @education = [ 'Southern Connecticut State University' ]
+     @hobbies = [ 'Playing Guitar', 'Taking care of my dog', 'Coding' ]
+   end
+
+   def current_location
+     'New Haven, CT, USA'
+   end
+
+   def currently
+     {
+       studying: [ 'Computer Science - Information Systems' ],
+       tinkering: [ 'Homelab Servers', 'Godot - Game Development', 'AI Applications using Local LLMs' ]
+      }
+   end
+ end
+ ```
+ 
+<br>
 
 ## 🔧 Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
