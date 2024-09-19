@@ -8,12 +8,12 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
 
 </div>
 
-<p align="center"> 
-  <a href="https://github.com/JoeyComputes">
-    <img src="https://badges.pufler.dev/visits/JoeyComputes/JoeyComputes?style=flat-square&color=black&logo=github">
-  <a href="https://github.com/JoeyComputes?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/JoeyComputes?style=flat-square&color=black&logo=github">
-  </a>
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoeyComputes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JoeyComputes's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyComputes&theme=tokyonight&hide_border=true" alt="JoeyComputes's Streak" height="165">
+  </p>
+</div>
     
 <h1 align="center">🔧 Skills</h1>
 
@@ -64,13 +64,6 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
  ```
  
 <br>
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoeyComputes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JoeyComputes's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyComputes&theme=tokyonight&hide_border=true" alt="JoeyComputes's Streak" height="165">
-  </p>
-</div>
 
 
 ## Contact
