@@ -14,5 +14,5 @@
 
 ## Contact
 - [Main Email](mailto:joeygatesofficial@icloud.com)
-- [Saharat Joey Tosakoon](https://www.linkedin.com/in/saharat-tosakoon-02452a284/) on LinkedIn
+- [Find me](https://www.linkedin.com/in/saharat-tosakoon-02452a284/) on LinkedIn
 - [@SaharatGaming](./) on Discord
