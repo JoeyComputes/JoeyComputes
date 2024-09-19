@@ -1,4 +1,13 @@
 <h1 align="center">👋 Hello! I'm Saharat Joey Tosakoon</h1>
+
+<div class="github-introduction">
+
+I'm a **Computer Science Major** with a passion for coding, computers, and the internet. Growing up in the mid-2000s, I fell in love with computers as Windows XP was peaking, and that passion has driven me to break down consoles/parents' PC to see the layout to later learn about how to start Minecraft Servers.  Today, I am a college student studying Computer Science and mainly specialize in creating networking projects for myself. This could come with functionalities such as being able to access my home lab from anywhere, handling SQL databases, and live hosting a web server.
+
+Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to streamline the development processes and connect to others for projects in the future.
+
+</div>
+
 <p align="center"> 
   <a href="https://github.com/JoeyComputes">
     <img src="https://badges.pufler.dev/visits/JoeyComputes/JoeyComputes?style=flat-square&color=black&logo=github">
