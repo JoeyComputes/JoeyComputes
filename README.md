@@ -30,6 +30,20 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+</h1>
+
+<h1 align="center">🧑🏽‍💻 Distros</h1>
+
+<h1 align="center">
+
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
 </h1>
 
 <br>
@@ -41,18 +55,6 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
 - 📚 Student at [Southern Connecticut State College](https://www.southernct.edu/)
 
 - 🎚️ 6+ years experience in audio engineering / live sound technician / audio production
-
-#### 🐧 Linux
-
-I also enjoy working with Linux, as the open-source community allows for new learning, ideas, and innovation.
-
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-  </td>
-  </tr>
-  </table>
-</div>
 
 <br>
 
