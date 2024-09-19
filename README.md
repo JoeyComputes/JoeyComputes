@@ -40,7 +40,7 @@
    def currently
      {
        studying: [ 'Computer Science - Information Systems' ],
-       tinkering: [ 'Homelab Servers', 'Godot - Game Development', 'AI Applications using Local LLMs' ]
+       tinkering: [ 'Server-Side Development', 'Godot - Game Development', 'Automation Projects' ]
       }
    end
  end
