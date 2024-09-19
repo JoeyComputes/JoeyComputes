@@ -41,7 +41,7 @@ Accelerating my workflow and productivity on Windows with the following tools an
 
 #### 🐧 Linux Enthusiast
 
-I enjoy working in Linux as well! Here are some of the distros I love using down below!
+I enjoy working in Linux as it is mostly open source. Here are some of the distros I love using down below!
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
