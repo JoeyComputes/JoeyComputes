@@ -10,11 +10,11 @@ I'm a **Computer Science Major** with a passion for coding, computers, and the i
     <img src="https://github-readme-stats.vercel.app/api?username=JoeyComputes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JoeyComputes's Stats" height="165">
   </p>
   
-  </div>
+</div>
   
-  Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to streamline the development processes and connect to others for projects in the future.
+Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to streamline the development processes and connect to others for projects in the future.
   
-  </div>
+</div>
 
 <div class="badges-githubstats">
   <p align="center">
@@ -41,6 +41,18 @@ I'm a **Computer Science Major** with a passion for coding, computers, and the i
 - 📚 Student at [Southern Connecticut State College](https://www.southernct.edu/)
 
 - 🎚️ 6+ years experience in audio engineering / live sound technician / audio production
+
+#### 🐧 Linux
+
+I also enjoy working with Linux, as the open-source community allows for new learning, ideas, and innovation.
+
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+  </td>
+  </tr>
+  </table>
+</div>
 
 <br>
 
@@ -71,7 +83,6 @@ I'm a **Computer Science Major** with a passion for coding, computers, and the i
  ```
  
 <br>
-
 
 ## Contact
 - [Main Email](mailto:joeygatesofficial@icloud.com)
