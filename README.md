@@ -63,28 +63,23 @@ I enjoy working in Linux as it is mostly open source. Here are some of the distr
 
 <h3>💻 If I had to describe myself...</h3>
 
- ```ruby
- class JoeyComputes < Developer
+ ```python
+class JoeyComputes:
+    def __init__(self):
+        self.name = 'Saharat Tosakoon'
+        self.age = 24
+        self.work = ['Self Employed', 'Student']
+        self.education = 'Southern Connecticut State University'
+        self.hobbies = ['Playing Guitar', 'Taking care of my dog', 'Coding']
 
-   def initialize
-     @name = 'Saharat Tosakoon'
-     @age = 24
-     @work = [ 'Self Employed', 'Student' ]
-     @education = 'Southern Connecticut State University'
-     @hobbies = [ 'Playing Guitar', 'Taking care of my dog', 'Coding' ]
-   end
+    def current_location(self):
+        return 'New Haven, CT, USA'
 
-   def current_location
-     'New Haven, CT, USA'
-   end
-
-   def currently
-     {
-       studying: [ 'Computer Science - Information Systems' ],
-       tinkering: [ 'Server-Side Development', 'Godot - Game Development', 'Automation Projects' ]
-      }
-   end
- end
+    def currently(self):
+        return {
+            'studying': ['Computer Science - Information Systems'],
+            'tinkering': ['Server-Side Development', 'Godot - Game Development', 'Automation Projects']
+        }
  ```
  
 <br>
