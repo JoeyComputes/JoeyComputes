@@ -2,7 +2,7 @@
 
 <div align="center" class="github-introduction">
   
-I'm a **Computer Science Major** with a passion for coding, computers, and the internet. Growing up in the mid-2000s, I fell in love with computers as Windows XP was peaking, and that passion drove me to break down my parents' PC to install Linux to later create several Minecraft Servers in my teenage years.  Today, I am a college student studying Computer Science and mainly specialize in creating networking projects for myself. This could come with functionalities such as being able to access my **home lab** services from anywhere and learning about handling **SQL** databases through older versions of ![Azerothcore]("https://github.com/azerothcore") as it was an open-sourced GNU GPL 2.0 project that taught me the server/client side stack of games like World of Warcraft.
+I'm a **Computer Science Major** with a passion for coding, computers, and the internet. Growing up in the mid-2000s, I fell in love with computers as Windows XP was peaking, and that passion drove me to break down my parents' PC to install Linux to later create several Minecraft Servers in my teenage years.  Today, I am a college student studying Computer Science and mainly specialize in creating networking projects for myself. This could come with functionalities such as being able to access my **home lab** services from anywhere and learning about handling **SQL** databases through older versions of [Azerothcore](https://github.com/azerothcore) as it was an open-sourced GNU GPL 2.0 project that taught me the server/client side interactions of games like World of Warcraft.
 </div>
 
 <div class="badges-githubstats">
