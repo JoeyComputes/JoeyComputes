@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Saharat Joey Tosakoon</h1>
+<h1>👋 Hello! I'm Saharat Joey Tosakoon</h1>
   <a href="https://github.com/JoeyComputes">
     <img src="https://badges.pufler.dev/visits/JoeyComputes/JoeyComputes?style=flat-square&color=black&logo=github">
   <a href="https://github.com/JoeyComputes?tab=repositories">
