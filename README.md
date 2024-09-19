@@ -32,15 +32,34 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
 
 </h1>
 
-<h1 align="center">🧑🏽‍💻 Distros</h1>
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
 
-<h1 align="center">
+#### 🖥️ Windows
 
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+Accelerating my workflow and productivity on Windows with the following tools and configurations:
 
-</h1>
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
+  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  </td>
+  <td valign="top" width="50%">
+
+#### 🐧 Linux Enthusiast
+
+I enjoy working Linux as well! Here are some of the distros I love using down below!
+
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+  </td>
+  </tr>
+  </table>
+</div>
 
 <h3>💻 If I had to describe myself...</h3>
 
