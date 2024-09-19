@@ -2,7 +2,7 @@
 
 <div align="center" class="github-introduction">
   
-I'm a **Computer Science Major** with a passion for coding, computers, and the internet. Growing up in the mid-2000s, I fell in love with computers as Windows XP was peaking, and that passion has driven me to break down consoles/parents' PC to see the layout to later learn about how to start Minecraft Servers.  Today, I am a college student studying Computer Science and mainly specialize in creating networking projects for myself. This could come with functionalities such as being able to access my **home lab** services from anywhere, handling **SQL** databases, and live hosting a **web server**.
+I'm a **Computer Science Major** with a passion for coding, computers, and the internet. Growing up in the mid-2000s, I fell in love with computers as Windows XP was peaking, and that passion drove me to break down my parents' PC to install Linux to later create several Minecraft Servers in my teenage years.  Today, I am a college student studying Computer Science and mainly specialize in creating networking projects for myself. This could come with functionalities such as being able to access my **home lab** services from anywhere, handling **SQL** databases, and live hosting a **web server**.
 </div>
 
 <div class="badges-githubstats">
@@ -42,19 +42,7 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
 
 </h1>
 
-<br>
-   
-🤓 Hi, I’m @JoeyComputes (Saharat Tosakoon), a 24 year old software developer.
-
-- 🖥️ Past Projects - [Biology | Zoology - Review Quiz](https://github.com/JoeyComputes/Biology_Zoology_Exam-1_Quiz-App)
-
-- 📚 Student at [Southern Connecticut State College](https://www.southernct.edu/)
-
-- 🎚️ 6+ years experience in audio engineering / live sound technician / audio production
-
-<br>
-
-<h3>💻 Here's the basic rundown </h3>
+<h3>💻 If I had to describe myself...</h3>
 
  ```ruby
  class JoeyComputes < Developer
@@ -82,7 +70,7 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
  
 <br>
 
-## Contact
+## 📱 Contact
 - [Main Email](mailto:joeygatesofficial@icloud.com)
 - [Find me](https://www.linkedin.com/in/saharat-tosakoon-02452a284/) on LinkedIn
 - [@SaharatGaming](./) on Discord
