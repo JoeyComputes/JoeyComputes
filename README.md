@@ -39,7 +39,7 @@ Accelerating my workflow and productivity on Windows with the following tools an
   </td>
   <td valign="top" width="50%">
 
-#### 🐧 Linux Enthusiast
+#### 🐧 Linux 
 
 I enjoy working in Linux as it is mostly open source. Here are some of the distros I love using down below!
 
