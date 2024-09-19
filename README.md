@@ -6,15 +6,17 @@
     <img src="https://badges.pufler.dev/repos/JoeyComputes?style=flat-square&color=black&logo=github">
   </a>
    
-👋 Hi, I’m @JoeyComputes (Saharat Tosakoon), a 24 year old software developer.
+🤓 Hi, I’m @JoeyComputes (Saharat Tosakoon), a 24 year old software developer.
 
-- 👨‍💻 Past Projects - [Biology | Zoology - Review Quiz](https://github.com/JoeyComputes/Biology_Zoology_Exam-1_Quiz-App)
+- 🖥️ Past Projects - [Biology | Zoology - Review Quiz](https://github.com/JoeyComputes/Biology_Zoology_Exam-1_Quiz-App)
 
-- 👥 Student at [Southern Connecticut State College](https://www.southernct.edu/)
+- 📚 Student at [Southern Connecticut State College](https://www.southernct.edu/)
+
+- 🎚️ 6+ years experience in audio engineering / live sound technician / audio production
 
 <br>
 
-<h3>How I'd define myself...literally</h3>
+<h3>💻 Here's the basic rundown </h3>
 
  ```ruby
  class JoeyComputes < Developer
