@@ -11,6 +11,8 @@ I'm a **Computer Science Major** with a passion for coding, computers, and the i
   </p>
   
 </div>
+
+<div align = "center">
   
 Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to learn other programming languages like **C++ / C#** and connect to others for projects in the future.
   
