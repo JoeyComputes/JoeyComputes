@@ -22,7 +22,7 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
   </p>
 </div>
 
-<h3>💻 If I had to describe myself...</h3>
+<h3 align=center> If I had to describe myself...</h3>
 
  ```python
 class JoeyComputes:
