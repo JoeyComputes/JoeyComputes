@@ -12,7 +12,7 @@ I'm a **Computer Science Major** with a passion for coding, computers, and the i
   
   </div>
   
-    Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to streamline the development processes and connect to others for projects in the future.
+  Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to streamline the development processes and connect to others for projects in the future.
   
   </div>
 
