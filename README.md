@@ -51,7 +51,7 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
      @name = 'Saharat Tosakoon'
      @age = 24
      @work = [ 'Self Employed', 'Student' ]
-     @education = [ 'Southern Connecticut State University' ]
+     @education = 'Southern Connecticut State University'
      @hobbies = [ 'Playing Guitar', 'Taking care of my dog', 'Coding' ]
    end
 
