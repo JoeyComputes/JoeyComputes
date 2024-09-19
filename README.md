@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-<p align=center>
   <a href="https://github.com/JoeyComputes">
     <img src="https://badges.pufler.dev/visits/JoeyComputes/JoeyComputes?style=flat-square&color=black&logo=github">
   <a href="https://github.com/JoeyComputes?tab=repositories">
