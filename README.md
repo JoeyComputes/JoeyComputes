@@ -88,10 +88,10 @@ I enjoy working in Linux as it is mostly open source. Here are some of the distr
 
 <h1 align="center">Contact</h1>
 
-<h4 align="center">
+<p align="center">
   
 - [Main Email](mailto:joeygatesofficial@icloud.com)
 - [Find me](https://www.linkedin.com/in/saharat-tosakoon-02452a284/) on LinkedIn
 - [@SaharatGaming](./) on Discord
 
-</h4>
+</p>
