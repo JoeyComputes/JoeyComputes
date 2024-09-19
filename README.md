@@ -22,6 +22,29 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
   </p>
 </div>
 
+<h3>💻 If I had to describe myself...</h3>
+
+ ```python
+class JoeyComputes:
+    def __init__(self):
+        self.name = 'Saharat Tosakoon'
+        self.age = 24
+        self.work = ['Self Employed', 'Student']
+        self.education = 'Southern Connecticut State University'
+        self.hobbies = ['Playing Guitar', 'Taking care of my dog', 'Coding']
+
+    def current_location(self):
+        return 'New Haven, CT, USA'
+
+    def currently(self):
+        return {
+            'studying': ['Computer Science - Information Systems'],
+            'tinkering': ['Server-Side Development', 'Godot - Game Development', 'Automation Projects']
+        }
+ ```
+ 
+<br>
+
 <div class="table-devenvironment">
   <table style="font-size: 12px">
   <tr>
@@ -60,29 +83,6 @@ I enjoy working in Linux as it is mostly open source. Here are some of the distr
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 </h1>
-
-<h3>💻 If I had to describe myself...</h3>
-
- ```python
-class JoeyComputes:
-    def __init__(self):
-        self.name = 'Saharat Tosakoon'
-        self.age = 24
-        self.work = ['Self Employed', 'Student']
-        self.education = 'Southern Connecticut State University'
-        self.hobbies = ['Playing Guitar', 'Taking care of my dog', 'Coding']
-
-    def current_location(self):
-        return 'New Haven, CT, USA'
-
-    def currently(self):
-        return {
-            'studying': ['Computer Science - Information Systems'],
-            'tinkering': ['Server-Side Development', 'Godot - Game Development', 'Automation Projects']
-        }
- ```
- 
-<br>
 
 ## 📱 Contact
 - [Main Email](mailto:joeygatesofficial@icloud.com)
