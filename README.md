@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello! I'm Saharat Joey Tosakoon</h1>
+<h1 align="center">👋 Hello! I'm Saharat "Joey" Tosakoon</h1>
 
 <div align="center" class="github-introduction">
-Hello! My name's **Joey** and I got a knack for computers, programming and the overall workings of the internet.
+Hello! My name's Saharat but most would know me as **Joey**. I got a knack for computers, programming and the overall workings of the internet.
 </div>
 
 <div class="badges-githubstats">
@@ -83,8 +83,5 @@ I enjoy working in Linux as it is mostly open source. Here are some of the distr
 
 <div align="center">
   
-- [Main Email](mailto:joeygatesofficial@icloud.com)
-- [Find me](https://www.linkedin.com/in/saharat-tosakoon-02452a284/) on LinkedIn
-- [@SaharatGaming](./) on Discord
-
+- [Main Email](mailto:josephbakertech@gmail.com)
 </div>
