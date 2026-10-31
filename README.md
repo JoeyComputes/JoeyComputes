@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello! I'm Saharat Joey Tosakoon</h1>
 
 <div align="center" class="github-introduction">
-  
 Hello! My name's **Joey** and I got a knack for computers, programming and the overall workings of the internet.
 </div>
 
@@ -9,14 +8,8 @@ Hello! My name's **Joey** and I got a knack for computers, programming and the o
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JoeyComputes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JoeyComputes's Stats" height="165">
   </p>
-  
 </div>
 
-<div align = "center">
-  
-Additionally, I'm currently diving into the world of Software Engineering, expanding my skill set to learn other programming languages like **C++ / C#** and connect to others for projects in the future.
-  
-</div>
 
 <div class="badges-githubstats">
   <p align="center">
@@ -29,10 +22,10 @@ Additionally, I'm currently diving into the world of Software Engineering, expan
  ```python
 class JoeyComputes:
     def __init__(self):
-        self.name = 'Saharat Tosakoon'
-        self.age = 24
-        self.work = ['Self Employed', 'Student']
-        self.education = 'Southern Connecticut State University'
+        self.name = 'Saharat Joey Tosakoon'
+        self.age = 26
+        self.work = ['Self Employed']
+        self.education = 'Self-Educated'
         self.hobbies = ['Playing Guitar', 'Taking care of my dog', 'Coding']
 
     def current_location(self):
@@ -40,8 +33,8 @@ class JoeyComputes:
 
     def currently(self):
         return {
-            'studying': ['Computer Science - Information Systems'],
-            'tinkering': ['Server-Side Development', 'Godot - Game Development', 'Automation Projects']
+            'studying': ['Networking and Python'],
+            'tinkering': ['Server-Side Development', 'Web Development', 'Automation Projects']
         }
  ```
  
