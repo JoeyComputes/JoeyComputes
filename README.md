@@ -82,6 +82,5 @@ I enjoy working in Linux as it is mostly open source. Here are some of the distr
 <h1 align="center">Contact</h1>
 
 <div align="center">
-  
-- [Main Email](mailto:josephbakertech@gmail.com)
+[Main Email](mailto:josephbakertech@gmail.com)
 </div>
