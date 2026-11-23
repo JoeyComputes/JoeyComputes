@@ -72,15 +72,13 @@ I enjoy working in Linux as it is mostly open source. Here are some of the distr
 <h1 align="center">🔧 Skills</h1>
 
 <h1 align="center">
-
+  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
 </h1>
 
-<h1 align="center">Contact</h1>
+<h1 align="center">
+  Contact
+</h1>
 
-<div align="center">
-[Main Email](mailto:josephbakertech@gmail.com)
-</div>
